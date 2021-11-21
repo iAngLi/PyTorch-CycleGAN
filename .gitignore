@@ -101,9 +101,9 @@ ENV/
 .mypy_cache/
 
 # project directories
-datasets/
-output/A/
-output/B/
+#datasets/
+#output/A/
+#output/B/
 
 # model checkpoints
 *.pth
